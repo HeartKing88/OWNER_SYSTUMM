@@ -47,7 +47,7 @@ def private_panel(_):
     ]
 
 
-    def alive_panel(_):
+def alive_panel(_):
     buttons = [
         [
             InlineKeyboardButton(
